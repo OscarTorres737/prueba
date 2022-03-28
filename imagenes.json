@@ -1,0 +1,17 @@
+// JSON Document
+//Creamos una variable que contenga un arreglo de las imagenes necesarias en el index para que se manejen de manera dinamica
+var imagenes = [
+	{
+		'url' : 'TecShop/imagenes de productos/01.jpg',
+		'desc' : 'Primera imagen'
+	},
+	{
+		'url' : 'TecShop/imagenes de productos/02.jpg',
+		'desc' : 'Segunda imagen'
+	},
+	{
+		'url' : 'TecShop/imagenes de productos/03.jpg',
+		'desc' : 'Tercera imagen'
+	}
+	
+]
